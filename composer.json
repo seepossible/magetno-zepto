@@ -1,0 +1,16 @@
+{
+    "name": "zohomail/magetno-zepto",
+    "description": "N/A",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Zoho\\ZeptoMail\\": ""
+        }
+    }
+}
